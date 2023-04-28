@@ -1,0 +1,16 @@
+.services-img{
+    width: 100%;
+    height: 560px;
+}
+.container {
+    width: 100% !important;/*whatever size you want your container*/
+    border: 3px solid teal;
+    display: flex; /*Make sure to call this on your container*/
+    align-items: stretch; /*stretches all cards same height*/
+    justify-content: space-around; /*some space between cards*/
+  }
+  
+  .card {
+    width: 100%; /*or whatever size card you want*/
+    border: 2px solid red;
+  }

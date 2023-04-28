@@ -1,0 +1,30 @@
+/* * {
+    font-family: "Poppins", sans-serif !important;
+  } */
+img {
+  width: 100%;
+  height: 350px;
+}
+.span-brand-color {
+  color: #0398da;
+}
+.homepageimg19 {
+  width: 579px;
+  height: 395px;
+}
+.body-background-color{
+    background-color: #f7f7f7;
+
+}
+.zoom-in-effect {
+  cursor: pointer;
+  transition: transform .2s; /* Animation */
+  width: 100%;
+}
+.zoom-in-effect:hover {
+    transform: scale(1.1);
+}
+div.shadow-img{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 35px;
+}

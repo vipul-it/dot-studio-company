@@ -1,0 +1,49 @@
+.footer {
+  padding: 2rem 0rem 1rem 6rem;
+  background-color: #f7f7f7;
+  display: flex;
+}
+.social-icon {
+  display: flex;
+}
+.social-icon p {
+  padding-top: 5px;
+  padding-right: 5px;
+}
+.bottom-logo {
+  width: fit-content;
+  height: 158px;
+  padding: 2rem 3rem 1rem 0rem;
+}
+.copyright-text {
+  color: #858688;
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 1rem;
+}
+.copyright-text span{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.contact-us-icon {
+  margin-right: 0.8rem;
+}
+.contact-us p {
+  display: flex;
+  padding-top: 0.6rem;
+}
+.contact-us {
+  line-height: 1.5rem;
+  padding-top: 0.5rem;
+}
+.location-icon {
+  margin-right: 0.6rem;
+}
+.location p {
+  display: flex;
+  padding-top: 0.8rem;
+  padding-bottom: 1.2rem;
+}
